@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {background: radial-gradient(rgb(255, 242, 0), rgb(222, 101, 32));}
+header{ background-image: radial-gradient(rgb(101, 101, 89), rgb(37, 35, 32)
+    );
+text-align: end;
+color: white;}
+footer{background-color: black
+    ;
+color: white;
+text-align: center;}
